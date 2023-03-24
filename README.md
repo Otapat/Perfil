@@ -8,10 +8,11 @@
   <img src="https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=white" alt="JavaScript badge" />
   <img src="https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php&logoColor=white" alt="PHP badge" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL badge" />
+  <img src = "https://aleen42.github.io/badges/src/illustrator.svg">
 </p>
 
 
-<p align="center">Sou uma desenvolvedor web apaixonado por HTML, CSS e JavaScript, e estou sempre buscando aprender novas tecnologias e frameworks. Aqui no meu perfil do GitHub, você encontrará projetos que demonstram minhas habilidades em desenvolvimento web, desde sites simples até aplicações mais complexas. Além disso, adoro compartilhar meus conhecimentos e ajudar outras pessoas a crescerem na área.</p>
+<p align="center">Sou um desenvolvedor web apaixonado por HTML, CSS e JavaScript e estou sempre buscando aprender novas tecnologias e frameworks. Também tenho habilidades com design e ferramentas de criação de conteúdo. Aqui no meu perfil do GitHub, você encontrará projetos que demonstram minhas habilidades em desenvolvimento web, desde sites simples até aplicações mais complexas. Além disso, adoro compartilhar meus conhecimentos e ajudar outras pessoas a crescerem na área.</p>
 
 <h2 align="center" style ='color:#40d982'>Meus projetos</h2>
 
@@ -29,7 +30,7 @@
 
 <p align="center">
 <a href="https://www.instagram.com/paola_giulia/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram badge" /></a>
-  <a href="https://www.linkedin.com/in/paola-giulia-graciano-41a652129/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+  <a href="[link_para_perfil_no_linkedin]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
   
 </p>
 
