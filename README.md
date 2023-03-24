@@ -29,7 +29,7 @@
 
 <p align="center">
 <a href="https://www.instagram.com/paola_giulia/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram badge" /></a>
-  <a href="[link_para_perfil_no_linkedin]"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
+  <a href="https://www.linkedin.com/in/paola-giulia-graciano-41a652129/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
   
 </p>
 
