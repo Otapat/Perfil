@@ -1,3 +1,4 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=&fontAlign=80&fontAlignY=40&color=gradient)
 <h1 align="center">Olá, Bem-vindo ao meu perfil do GitHub, me chamo <span style="color:#ee00ff;">Paola Giulia</span> </h1>
 
 <p align="center">
